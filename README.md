@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @winniehappi1
-- 👀 I’m interested in data engineer internship
+- 👀 I’m interested in data analyst internship
 - 🌱 I’m currently working on a certificate
 - 💞️ I’m looking to collaborate on data
 - 📫 How to reach me: winnietchoko123@gmail.com
