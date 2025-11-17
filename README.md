@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @winniehappi1  
-- 👀 I’m interested in data analyst internship opportunities  
+- 👀 I’m interested in data analyst / data science internship opportunities  
 - 📊 I’ve earned my Google Data Analytics Certificate  
 - 🎓 Bachelor’s in Computer Science (expected Dec 2025)  
 - 🎓 Master’s in Data Science (starting Jan 2026)  
