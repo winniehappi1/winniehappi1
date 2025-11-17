@@ -4,7 +4,7 @@
 - 🎓 Bachelor’s in Computer Science (expected Dec 2025)  
 - 🎓 Master’s in Data Science (starting Jan 2026)  
 - 💞️ I’m looking to collaborate on data projects  
-- 📫 How to reach me: winnietchoko123@gmail.com  
+- 📫 How to reach me: winniemhappi@gmail.com 
 - 😄 Pronouns: She/Her  
 
 <!---
